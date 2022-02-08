@@ -2,13 +2,13 @@
 ![eberhard-grossgasteiger-xC7Ho08RYF4-unsplash](https://user-images.githubusercontent.com/43994025/153013956-aac92cee-c04d-4073-81bf-09998ee8dcc7.png)
 
 
-My name is Atanas and I live in Sofia, Bulgaria. I have been programming for a few years, and I am a big fan of Javascript and Python. I work with the Postgress, React, Express and Node to create some cool web application. I am on my path to further learn other technologies. 
+My name is Atanas and I live in Sofia, Bulgaria. I have been programming for a few years, and I am a big fan of Javascript and Python. I work with the Postgress, React, Express and Node to create some cool web application. I am on my path to further learn other cool technologies. 
 
-🔭 I’m currently working on unpopular-bulgaria.com
+🔭 Currentlu working on unpopular-bulgaria.com
 
-🌱 I’m on my way to learn Redux
+🌱 On my way to learn Redux
 
-💬 Interesting fact: My first game consisted of rendering 3 blue blocks
+💬 My first game consisted of rendering 3 blue blocks
 
 ## ⚡ Technologies
 I love to experiment with new libraries and frameworks. The main ones are:
