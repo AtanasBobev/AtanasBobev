@@ -28,8 +28,6 @@ I love to experiment with new libraries and frameworks. The main ones are:
 
 [![Atanas's github stats](https://github-readme-stats.vercel.app/api?username=AtanasBobev)](https://github.com/AtanasBobev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasBobev&layout=compact)](https://github.com/AtanasBobev)
-
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=AtanasBobev)
 
 ## ❤️ Let's connect
