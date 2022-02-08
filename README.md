@@ -2,17 +2,20 @@
 ![eberhard-grossgasteiger-xC7Ho08RYF4-unsplash](https://user-images.githubusercontent.com/43994025/153013956-aac92cee-c04d-4073-81bf-09998ee8dcc7.png)
 
 
-My name is Atanas and I live in Sofia, Bulgaria. I have been programming for a few years know and I a big fan of Javascript and Python. I work with the Postgress, React, Express and Node to create some cool web application. I am on my path to further learn other technologies. 
+My name is Atanas and I live in Sofia, Bulgaria. I have been programming for a few years, and I am a big fan of Javascript and Python. I work with the Postgress, React, Express and Node to create some cool web application. I am on my path to further learn other technologies. 
 
-🔭 I’m currently working on Unpopular-bulgaria.com
+🔭 I’m currently working on unpopular-bulgaria.com
 
 🌱 I’m on my way to learn Redux
 
 💬 Interesting fact: My first game consisted of rendering 3 blue blocks
 
 ## ⚡ Technologies
+I love to experiment with new libraries and frameworks. The main ones are:
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)![153013956-aac92cee-c04d-4073-81bf-09998ee8dcc7](https://user-images.githubusercontent.com/43994025/153019925-e0b4d301-3af8-4bbb-8ef3-07a0c4b8d8e3.png)
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -32,3 +35,6 @@ My name is Atanas and I live in Sofia, Bulgaria. I have been programming for a f
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=AtanasBobev)
 
 ## ❤️ Let's connect
+
+Write on [facebook](facebook.com/Atanas.Bobev.me/) 
+
