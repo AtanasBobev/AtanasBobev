@@ -14,9 +14,7 @@ My name is Atanas and I live in Sofia, Bulgaria. I have been programming for a f
 I love to experiment with new libraries and frameworks. The main ones are:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)![153013956-aac92cee-c04d-4073-81bf-09998ee8dcc7](https://user-images.githubusercontent.com/43994025/153019925-e0b4d301-3af8-4bbb-8ef3-07a0c4b8d8e3.png)
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
