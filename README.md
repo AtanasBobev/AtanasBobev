@@ -4,7 +4,7 @@
 
 I live in Sofia, Bulgaria. I have been programming for a few years, and I am a big fan of Javascript and Python. I work with the PERN stack to create some cool web application. I am on my path to further learn other cool technologies. 
 
-🔭 Currentlu working on unpopular-bulgaria.com
+🔭 Currently working on unpopular-bulgaria.com
 
 🌱 On my way to learn Redux
 
