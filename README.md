@@ -32,5 +32,5 @@ I love to experiment with new libraries and frameworks. The main ones are:
 
 ## ❤️ Let's connect
 
-Write on [facebook](facebook.com/Atanas.Bobev.me/) 
+Write on [facebook](https://www.facebook.com/Atanas.Bobev.me/) 
 
