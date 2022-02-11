@@ -11,7 +11,7 @@ I live in Sofia, Bulgaria. I have been programming for a few years, and I am a b
 💬 My first game consisted of rendering 3 blue blocks
 
 ## ⚡ Technologies
-I love to experiment with new libraries and frameworks. The main ones are:
+I love to experiment with new libraries and frameworks. The main technologies I use are:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
