@@ -6,7 +6,7 @@ I live in Sofia, Bulgaria. I have been programming for a few years, and I am a b
 
 🔭 Currently working on unpopular-bulgaria.com
 
-🌱 On my way to learn Redux
+🌱 On my way to delve deeper into Python
 
 💬 My first game consisted of rendering 3 blue blocks
 
