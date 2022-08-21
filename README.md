@@ -2,7 +2,7 @@
 ![eberhard-grossgasteiger-xC7Ho08RYF4-unsplash](https://user-images.githubusercontent.com/43994025/153013956-aac92cee-c04d-4073-81bf-09998ee8dcc7.png)
 
 
-I live in Sofia, Bulgaria. I have been programming for a few years, and I am a big fan of Javascript and Python. I work with the PERN stack to create some cool web application. I am on my path to further learn other cool technologies. 
+I live in Sofia, Bulgaria. I have been programming for a few years, and I am a big fan of Javascript and Python. My choice is PERN stack to create some awesome web application. I am on my path to further learn other cool technologies. 
 
 🔭 Currently working on unpopular-bulgaria.com
 
