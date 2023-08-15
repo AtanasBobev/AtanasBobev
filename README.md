@@ -40,4 +40,4 @@ I love to experiment with new libraries and frameworks. The main technologies I 
 
 ## ❤️ Let's connect
 
-Write on [LinkedIn](https://www.linkedin.com/in/atanas-bobev/)
+Reach out on [LinkedIn](https://www.linkedin.com/in/atanas-bobev/)
