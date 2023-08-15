@@ -34,7 +34,7 @@ I love to experiment with new libraries and frameworks. The main technologies I 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ## 📈 GitHub Stats 
 
-[![Atanas's github stats](https://github-readme-stats.vercel.app/api?username=AtanasBobev)](https://github.com/AtanasBobev)
+[![Atanas's github stats](https://github-readme-stats.vercel.app/api?username=AtanasBobev\&rank_icon=github)](https://github.com/AtanasBobev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasBobev&layout=compact&langs_count=10)](https://github.com/AtanasBobev/github-readme-stats)
 
 ## ❤️ Let's connect
