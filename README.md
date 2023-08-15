@@ -36,7 +36,6 @@ I love to experiment with new libraries and frameworks. The main technologies I 
 
 [![Atanas's github stats](https://github-readme-stats.vercel.app/api?username=AtanasBobev)](https://github.com/AtanasBobev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasBobev&layout=compact&langs_count=10)](https://github.com/AtanasBobev/github-readme-stats)
-[Visitors](https://visitor-badge.glitch.me/badge?page_id=AtanasBobev)
 
 ## ❤️ Let's connect
 
