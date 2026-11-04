@@ -5,7 +5,7 @@ Hey, I am Atanas, and I am a Software Engineer with 5 years of experience.
 
 🔭 Currently working on one of the largest marketing databases in the world
 
-🌱 On my way to delve deeper into GCP
+🌱 On my way to delve deeper into RAG
 
 💬 My first game consisted of rendering 3 blue blocks
 
